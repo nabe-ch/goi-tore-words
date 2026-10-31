@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:22:50.314Z",
+  "updatedAt": "2026-10-31T13:25:33.575Z",
   "categories": [
     "心理学",
     "生活",
@@ -15,6 +15,12 @@
     "その他"
   ],
   "words": [],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvwfoufbzjyv",
+      "word": "DIY",
+      "addedAt": "2026-10-31T13:25:33.575Z"
+    }
+  ],
   "researched": []
 }
