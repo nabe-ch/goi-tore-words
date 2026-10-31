@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:10:31.267Z",
+  "updatedAt": "2026-10-31T13:21:31.743Z",
   "categories": [
     "心理学",
     "生活",
@@ -25,6 +25,11 @@
       "id": "mmvwf5i76zyuy",
       "word": "同期テスト（PCから）",
       "addedAt": "2026-10-31T13:10:31.266Z"
+    },
+    {
+      "id": "mmvwfjntrcru8",
+      "word": "同期テスト（PCから・新しい場所）",
+      "addedAt": "2026-10-31T13:21:31.743Z"
     }
   ],
   "researched": []
