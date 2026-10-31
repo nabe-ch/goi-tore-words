@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:25:33.575Z",
+  "updatedAt": "2026-10-31T13:27:06.301Z",
   "categories": [
     "心理学",
     "生活",
@@ -14,13 +14,22 @@
     "食べ物",
     "その他"
   ],
-  "words": [],
-  "memo": [
+  "words": [
     {
-      "id": "mmvwfoufbzjyv",
+      "id": "wmvwfqtz0xsgh",
       "word": "DIY",
-      "addedAt": "2026-10-31T13:25:33.575Z"
+      "reading": "でぃーあいわい",
+      "meaning": "専門の業者に頼まず、自分で物を作ったり、直したり、改造したりすること。日曜大工など。英語の do it yourself（自分でやろう）の略で、第二次世界大戦の後、ロンドンで市民が自分たちの手で街を建て直した運動から広まったとされる",
+      "example": "家具も自分で作れるんや。ゲームの中でもDIYする時代やね",
+      "category": "生活",
+      "source": "デジタル大辞泉・実用日本語表現辞典（Weblio掲載、2026-10-31確認）。確度A〜B",
+      "usedCount": 0,
+      "uses": [],
+      "createdAt": "2026-10-31T13:27:06.300Z"
     }
   ],
-  "researched": []
+  "memo": [],
+  "researched": [
+    "DIY"
+  ]
 }
