@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:26:17.377Z",
+  "updatedAt": "2026-11-02T12:26:30.216Z",
   "categories": [
     "心理学",
     "生活",
@@ -471,6 +471,11 @@
       "id": "mmvz8gbs03z2s",
       "word": "寝る間も惜しむ",
       "addedAt": "2026-11-02T12:26:17.376Z"
+    },
+    {
+      "id": "mmvz8gloohvl7",
+      "word": "目から鱗",
+      "addedAt": "2026-11-02T12:26:30.216Z"
     }
   ],
   "phrases": [
