@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:18:29.953Z",
+  "updatedAt": "2026-11-02T10:31:32.070Z",
   "categories": [
     "心理学",
     "生活",
@@ -51,6 +51,11 @@
       "id": "mmvz3if1r0945",
       "word": "詐欺",
       "addedAt": "2026-11-02T10:07:56.847Z"
+    },
+    {
+      "id": "mmvz4cr1hgmwr",
+      "word": "商業施設",
+      "addedAt": "2026-11-02T10:31:32.069Z"
     }
   ],
   "phrases": [],
