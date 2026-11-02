@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:45:51.326Z",
+  "updatedAt": "2026-11-02T12:52:38.221Z",
   "categories": [
     "心理学",
     "生活",
@@ -736,7 +736,13 @@
       "createdAt": "2026-11-02T12:45:51.326Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz9e7kd6tjy",
+      "word": "エイリアス機能",
+      "addedAt": "2026-11-02T12:52:38.221Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
