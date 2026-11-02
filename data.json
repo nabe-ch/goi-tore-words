@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:45:25.049Z",
+  "updatedAt": "2026-11-02T11:46:50.193Z",
   "categories": [
     "心理学",
     "生活",
@@ -306,6 +306,11 @@
       "id": "mmvz6zrjtp98i",
       "word": "裏道",
       "addedAt": "2026-11-02T11:45:25.049Z"
+    },
+    {
+      "id": "mmvz71l8x1vn5",
+      "word": "ギルド",
+      "addedAt": "2026-11-02T11:46:50.193Z"
     }
   ],
   "phrases": [
