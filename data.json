@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:37:43.616Z",
+  "updatedAt": "2026-11-02T11:45:25.049Z",
   "categories": [
     "心理学",
     "生活",
@@ -301,6 +301,11 @@
       "id": "mmvz4s1y7kqdw",
       "word": "安泰",
       "addedAt": "2026-11-02T10:43:26.047Z"
+    },
+    {
+      "id": "mmvz6zrjtp98i",
+      "word": "裏道",
+      "addedAt": "2026-11-02T11:45:25.049Z"
     }
   ],
   "phrases": [
