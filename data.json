@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T13:27:06.301Z",
+  "updatedAt": "2026-11-02T10:01:21.094Z",
   "categories": [
     "心理学",
     "生活",
@@ -28,7 +28,13 @@
       "createdAt": "2026-10-31T13:27:06.300Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz39xom164e",
+      "word": "他力本願",
+      "addedAt": "2026-11-02T10:01:21.094Z"
+    }
+  ],
   "researched": [
     "DIY"
   ]
