@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T13:24:29.945Z",
+  "updatedAt": "2026-11-02T13:24:39.854Z",
   "categories": [
     "心理学",
     "生活",
@@ -791,6 +791,11 @@
       "id": "mmvzaj6nt4pmq",
       "word": "ルッキズム",
       "addedAt": "2026-11-02T13:24:29.945Z"
+    },
+    {
+      "id": "mmvzajeb2b1ta",
+      "word": "フレネミー",
+      "addedAt": "2026-11-02T13:24:39.854Z"
     }
   ],
   "phrases": [
