@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T13:23:24.826Z",
+  "updatedAt": "2026-11-02T13:23:46.687Z",
   "categories": [
     "心理学",
     "生活",
@@ -771,6 +771,11 @@
       "id": "mmvzaa820l8c3",
       "word": "ドパガキ",
       "addedAt": "2026-11-02T13:17:31.848Z"
+    },
+    {
+      "id": "mmvzai9a7tl0f",
+      "word": "チャッピー",
+      "addedAt": "2026-11-02T13:23:46.687Z"
     }
   ],
   "phrases": [
