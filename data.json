@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T13:30:13.444Z",
+  "updatedAt": "2026-11-02T13:30:36.176Z",
   "categories": [
     "心理学",
     "生活",
@@ -801,6 +801,11 @@
       "id": "mmvzaqjpgwfe5",
       "word": "メロい",
       "addedAt": "2026-11-02T13:30:13.444Z"
+    },
+    {
+      "id": "mmvzar18w8lzd",
+      "word": "タゴサク構文",
+      "addedAt": "2026-11-02T13:30:36.176Z"
     }
   ],
   "phrases": [
