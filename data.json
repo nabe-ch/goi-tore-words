@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T13:24:39.854Z",
+  "updatedAt": "2026-11-02T13:30:13.444Z",
   "categories": [
     "心理学",
     "生活",
@@ -796,6 +796,11 @@
       "id": "mmvzajeb2b1ta",
       "word": "フレネミー",
       "addedAt": "2026-11-02T13:24:39.854Z"
+    },
+    {
+      "id": "mmvzaqjpgwfe5",
+      "word": "メロい",
+      "addedAt": "2026-11-02T13:30:13.444Z"
     }
   ],
   "phrases": [
