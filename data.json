@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:46:50.193Z",
+  "updatedAt": "2026-11-02T11:47:00.034Z",
   "categories": [
     "心理学",
     "生活",
@@ -311,6 +311,11 @@
       "id": "mmvz71l8x1vn5",
       "word": "ギルド",
       "addedAt": "2026-11-02T11:46:50.193Z"
+    },
+    {
+      "id": "mmvz71suagepa",
+      "word": "尻子玉",
+      "addedAt": "2026-11-02T11:47:00.034Z"
     }
   ],
   "phrases": [
