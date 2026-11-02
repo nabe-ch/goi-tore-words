@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:35:07.315Z",
+  "updatedAt": "2026-11-02T10:35:15.478Z",
   "categories": [
     "心理学",
     "生活",
@@ -181,6 +181,11 @@
       "id": "mmvz4hd4jbr0m",
       "word": "人助け",
       "addedAt": "2026-11-02T10:35:07.315Z"
+    },
+    {
+      "id": "mmvz4hjfa5u5u",
+      "word": "手助け",
+      "addedAt": "2026-11-02T10:35:15.478Z"
     }
   ],
   "phrases": [],
