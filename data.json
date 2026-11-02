@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T13:24:20.881Z",
+  "updatedAt": "2026-11-02T13:24:29.945Z",
   "categories": [
     "心理学",
     "生活",
@@ -786,6 +786,11 @@
       "id": "mmvzaizo1ao7p",
       "word": "ナフサ不足",
       "addedAt": "2026-11-02T13:24:20.881Z"
+    },
+    {
+      "id": "mmvzaj6nt4pmq",
+      "word": "ルッキズム",
+      "addedAt": "2026-11-02T13:24:29.945Z"
     }
   ],
   "phrases": [
