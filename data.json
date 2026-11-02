@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:26:30.216Z",
+  "updatedAt": "2026-11-02T12:30:55.780Z",
   "categories": [
     "心理学",
     "生活",
@@ -476,6 +476,11 @@
       "id": "mmvz8gloohvl7",
       "word": "目から鱗",
       "addedAt": "2026-11-02T12:26:30.216Z"
+    },
+    {
+      "id": "mmvz8malg8f0h",
+      "word": "アンガーマネジメント",
+      "addedAt": "2026-11-02T12:30:55.780Z"
     }
   ],
   "phrases": [
