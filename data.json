@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:37:02.207Z",
+  "updatedAt": "2026-11-02T10:43:26.047Z",
   "categories": [
     "心理学",
     "生活",
@@ -296,7 +296,13 @@
       "createdAt": "2026-11-02T10:36:48.109Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz4s1y7kqdw",
+      "word": "安泰",
+      "addedAt": "2026-11-02T10:43:26.047Z"
+    }
+  ],
   "phrases": [],
   "researched": [
     "DIY",
