@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:18:26.931Z",
+  "updatedAt": "2026-11-02T10:18:29.953Z",
   "categories": [
     "心理学",
     "生活",
@@ -53,13 +53,7 @@
       "addedAt": "2026-11-02T10:07:56.847Z"
     }
   ],
-  "phrases": [
-    {
-      "id": "pmvz3vx8222bm",
-      "text": "動作確認",
-      "addedAt": "2026-11-02T10:18:26.930Z"
-    }
-  ],
+  "phrases": [],
   "researched": [
     "DIY"
   ]
