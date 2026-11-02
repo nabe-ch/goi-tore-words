@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:34:41.462Z",
+  "updatedAt": "2026-11-02T10:34:45.744Z",
   "categories": [
     "心理学",
     "生活",
@@ -161,6 +161,11 @@
       "id": "mmvz4gt6eihtv",
       "word": "ダンジョン",
       "addedAt": "2026-11-02T10:34:41.462Z"
+    },
+    {
+      "id": "mmvz4gwhc24nw",
+      "word": "ポケモン",
+      "addedAt": "2026-11-02T10:34:45.744Z"
     }
   ],
   "phrases": [],
