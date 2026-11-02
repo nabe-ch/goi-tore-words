@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T15:00:50.735Z",
+  "updatedAt": "2026-11-02T15:00:58.774Z",
   "categories": [
     "心理学",
     "生活",
@@ -1086,6 +1086,11 @@
       "id": "mmvzdz35by2ss",
       "word": "親ガチャ",
       "addedAt": "2026-11-02T15:00:50.735Z"
+    },
+    {
+      "id": "mmvzdz9cmpgmd",
+      "word": "Z世代",
+      "addedAt": "2026-11-02T15:00:58.774Z"
     }
   ],
   "phrases": [
