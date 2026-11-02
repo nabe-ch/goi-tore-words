@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T15:07:42.091Z",
+  "updatedAt": "2026-11-02T15:32:38.488Z",
   "categories": [
     "心理学",
     "生活",
@@ -1332,7 +1332,13 @@
       "createdAt": "2026-11-02T15:07:42.091Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvzf3z6gfd2a",
+      "word": "あつかましい",
+      "addedAt": "2026-11-02T15:32:38.488Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
