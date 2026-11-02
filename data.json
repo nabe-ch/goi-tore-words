@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:31:38.545Z",
+  "updatedAt": "2026-11-02T10:31:50.013Z",
   "categories": [
     "心理学",
     "生活",
@@ -61,6 +61,11 @@
       "id": "mmvz4cw1dm42g",
       "word": "日当たり",
       "addedAt": "2026-11-02T10:31:38.545Z"
+    },
+    {
+      "id": "mmvz4d4vxwg32",
+      "word": "風当り",
+      "addedAt": "2026-11-02T10:31:50.013Z"
     }
   ],
   "phrases": [],
