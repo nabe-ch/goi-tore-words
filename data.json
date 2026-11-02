@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:23:12.861Z",
+  "updatedAt": "2026-11-02T12:25:41.195Z",
   "categories": [
     "心理学",
     "生活",
@@ -456,7 +456,13 @@
       "createdAt": "2026-11-02T12:11:29.676Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz8fjuzd4sb",
+      "word": "リアタイ",
+      "addedAt": "2026-11-02T12:25:41.195Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
