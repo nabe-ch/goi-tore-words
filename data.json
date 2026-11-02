@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:32:50.246Z",
+  "updatedAt": "2026-11-02T12:38:29.793Z",
   "categories": [
     "心理学",
     "生活",
@@ -556,7 +556,13 @@
       "createdAt": "2026-11-02T12:31:38.919Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz8w0wxd0t6",
+      "word": "模様が人の顔に見える効果",
+      "addedAt": "2026-11-02T12:38:29.793Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
