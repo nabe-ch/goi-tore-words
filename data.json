@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T12:25:41.195Z",
+  "updatedAt": "2026-11-02T12:26:04.062Z",
   "categories": [
     "心理学",
     "生活",
@@ -461,6 +461,11 @@
       "id": "mmvz8fjuzd4sb",
       "word": "リアタイ",
       "addedAt": "2026-11-02T12:25:41.195Z"
+    },
+    {
+      "id": "mmvz8g1i5n6ff",
+      "word": "カエル化",
+      "addedAt": "2026-11-02T12:26:04.062Z"
     }
   ],
   "phrases": [
