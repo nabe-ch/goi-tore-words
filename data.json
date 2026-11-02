@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T15:04:21.275Z",
+  "updatedAt": "2026-11-02T15:05:05.569Z",
   "categories": [
     "心理学",
     "生活",
@@ -1321,6 +1321,11 @@
       "id": "mmvze3llnqazk",
       "word": "エゴイスト",
       "addedAt": "2026-11-02T15:04:21.275Z"
+    },
+    {
+      "id": "mmvze4js1e375",
+      "word": "エゴサ",
+      "addedAt": "2026-11-02T15:05:05.569Z"
     }
   ],
   "phrases": [
