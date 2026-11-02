@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:48:36.497Z",
+  "updatedAt": "2026-11-02T11:54:36.679Z",
   "categories": [
     "心理学",
     "生活",
@@ -396,7 +396,13 @@
       "createdAt": "2026-11-02T11:48:36.497Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz7bl6vfqum",
+      "word": "こういんしょく（婚活中に色が変わる：魚など）",
+      "addedAt": "2026-11-02T11:54:36.679Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
