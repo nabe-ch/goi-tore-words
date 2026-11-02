@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T13:23:46.687Z",
+  "updatedAt": "2026-11-02T13:23:58.213Z",
   "categories": [
     "心理学",
     "生活",
@@ -776,6 +776,11 @@
       "id": "mmvzai9a7tl0f",
       "word": "チャッピー",
       "addedAt": "2026-11-02T13:23:46.687Z"
+    },
+    {
+      "id": "mmvzaii6djvnc",
+      "word": "長袖をください",
+      "addedAt": "2026-11-02T13:23:58.213Z"
     }
   ],
   "phrases": [
