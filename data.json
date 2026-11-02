@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:34:45.744Z",
+  "updatedAt": "2026-11-02T10:34:58.486Z",
   "categories": [
     "心理学",
     "生活",
@@ -166,6 +166,11 @@
       "id": "mmvz4gwhc24nw",
       "word": "ポケモン",
       "addedAt": "2026-11-02T10:34:45.744Z"
+    },
+    {
+      "id": "mmvz4h6baqn5k",
+      "word": "救助隊",
+      "addedAt": "2026-11-02T10:34:58.486Z"
     }
   ],
   "phrases": [],
