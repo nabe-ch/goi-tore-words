@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T14:58:14.663Z",
+  "updatedAt": "2026-11-02T15:00:50.735Z",
   "categories": [
     "心理学",
     "生活",
@@ -1081,6 +1081,11 @@
       "id": "mmvzdvqpzxz3o",
       "word": "うっせぇわ",
       "addedAt": "2026-11-02T14:58:14.663Z"
+    },
+    {
+      "id": "mmvzdz35by2ss",
+      "word": "親ガチャ",
+      "addedAt": "2026-11-02T15:00:50.735Z"
     }
   ],
   "phrases": [
