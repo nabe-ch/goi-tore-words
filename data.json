@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T11:47:00.034Z",
+  "updatedAt": "2026-11-02T11:47:13.198Z",
   "categories": [
     "心理学",
     "生活",
@@ -316,6 +316,11 @@
       "id": "mmvz71suagepa",
       "word": "尻子玉",
       "addedAt": "2026-11-02T11:47:00.034Z"
+    },
+    {
+      "id": "mmvz722zy8v68",
+      "word": "レペゼン",
+      "addedAt": "2026-11-02T11:47:13.198Z"
     }
   ],
   "phrases": [
