@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:33:01.661Z",
+  "updatedAt": "2026-11-02T10:34:41.462Z",
   "categories": [
     "心理学",
     "生活",
@@ -156,7 +156,13 @@
       "createdAt": "2026-11-02T10:33:01.661Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvz4gt6eihtv",
+      "word": "ダンジョン",
+      "addedAt": "2026-11-02T10:34:41.462Z"
+    }
+  ],
   "phrases": [],
   "researched": [
     "DIY",
