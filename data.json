@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T15:02:52.384Z",
+  "updatedAt": "2026-11-02T15:04:21.275Z",
   "categories": [
     "心理学",
     "生活",
@@ -1316,7 +1316,13 @@
       "createdAt": "2026-11-02T15:02:52.384Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmvze3llnqazk",
+      "word": "エゴイスト",
+      "addedAt": "2026-11-02T15:04:21.275Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
