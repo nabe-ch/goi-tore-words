@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T10:35:15.478Z",
+  "updatedAt": "2026-11-02T10:35:30.353Z",
   "categories": [
     "心理学",
     "生活",
@@ -186,6 +186,11 @@
       "id": "mmvz4hjfa5u5u",
       "word": "手助け",
       "addedAt": "2026-11-02T10:35:15.478Z"
+    },
+    {
+      "id": "mmvz4huwhuqat",
+      "word": "質問コーナー",
+      "addedAt": "2026-11-02T10:35:30.353Z"
     }
   ],
   "phrases": [],
