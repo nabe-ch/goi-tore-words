@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T05:42:32.329Z",
+  "updatedAt": "2026-11-03T05:48:28.575Z",
   "categories": [
     "心理学",
     "生活",
@@ -1440,7 +1440,13 @@
       "createdAt": "2026-11-03T05:42:28.197Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmw09ol5rffra",
+      "word": "ディベート",
+      "addedAt": "2026-11-03T05:48:28.575Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
