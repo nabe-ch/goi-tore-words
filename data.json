@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T13:21:37.907Z",
+  "updatedAt": "2026-11-03T13:21:44.777Z",
   "categories": [
     "心理学",
     "生活",
@@ -1481,6 +1481,11 @@
       "id": "mmw0pvckyo4do",
       "word": "サソリ座の女",
       "addedAt": "2026-11-03T13:21:37.907Z"
+    },
+    {
+      "id": "mmw0pvhvtu2w2",
+      "word": "サソリ",
+      "addedAt": "2026-11-03T13:21:44.777Z"
     }
   ],
   "phrases": [
