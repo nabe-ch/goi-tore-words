@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T05:36:33.536Z",
+  "updatedAt": "2026-11-03T05:36:50.770Z",
   "categories": [
     "心理学",
     "生活",
@@ -1352,6 +1352,11 @@
       "id": "mmw0999fk4vxo",
       "word": "キャンプ",
       "addedAt": "2026-11-03T05:36:33.536Z"
+    },
+    {
+      "id": "mmw099mqa1qtn",
+      "word": "BBQ",
+      "addedAt": "2026-11-03T05:36:50.770Z"
     }
   ],
   "phrases": [
