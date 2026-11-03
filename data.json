@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T13:22:14.696Z",
+  "updatedAt": "2026-11-03T13:22:20.482Z",
   "categories": [
     "心理学",
     "生活",
@@ -1491,6 +1491,11 @@
       "id": "mmw0pw4ywr9jd",
       "word": "ファンサ",
       "addedAt": "2026-11-03T13:22:14.696Z"
+    },
+    {
+      "id": "mmw0pw9fmxfx9",
+      "word": "出待ち",
+      "addedAt": "2026-11-03T13:22:20.482Z"
     }
   ],
   "phrases": [
