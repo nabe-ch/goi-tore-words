@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T05:49:38.893Z",
+  "updatedAt": "2026-11-03T13:21:37.907Z",
   "categories": [
     "心理学",
     "生活",
@@ -1476,7 +1476,13 @@
       "createdAt": "2026-11-03T05:49:38.893Z"
     }
   ],
-  "memo": [],
+  "memo": [
+    {
+      "id": "mmw0pvckyo4do",
+      "word": "サソリ座の女",
+      "addedAt": "2026-11-03T13:21:37.907Z"
+    }
+  ],
   "phrases": [
     {
       "id": "pmvz4tt0s8cyj",
