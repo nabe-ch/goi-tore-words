@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T13:21:44.777Z",
+  "updatedAt": "2026-11-03T13:22:14.696Z",
   "categories": [
     "心理学",
     "生活",
@@ -1486,6 +1486,11 @@
       "id": "mmw0pvhvtu2w2",
       "word": "サソリ",
       "addedAt": "2026-11-03T13:21:44.777Z"
+    },
+    {
+      "id": "mmw0pw4ywr9jd",
+      "word": "ファンサ",
+      "addedAt": "2026-11-03T13:22:14.696Z"
     }
   ],
   "phrases": [
