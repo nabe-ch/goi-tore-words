@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T00:53:24.188Z",
+  "updatedAt": "2026-11-06T00:53:46.225Z",
   "categories": [
     "心理学",
     "生活",
@@ -1549,7 +1549,13 @@
     }
   ],
   "memo": [],
-  "phrases": [],
+  "phrases": [
+    {
+      "id": "pmw49h5dbgtxa",
+      "text": "アサリ狩りー潮干狩り",
+      "addedAt": "2026-11-06T00:53:46.225Z"
+    }
+  ],
   "researched": [
     "DIY",
     "他力本願",
